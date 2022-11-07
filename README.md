@@ -2,7 +2,9 @@
 - 🤍 My pronouns are she/her
 - 👀 I’m interested in HTML, CSS, and more :D
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on idk lol
+- 💞️ I’m looking to collaborate on nothing atm!
+- 🌐 I run https://galerexia.neocities.org/
+- 🌎 EST Timezone
 - 📫 How to reach me on Discord: galerexia#5908
 
 <!---
