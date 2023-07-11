@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @galerexia
-- 🤍 My pronouns are she/her
+- 👋 Hi, I’m @cosmuna
+- 🤍 My pronouns are she/they/it
 - 👀 I’m interested in HTML, CSS, and more :D
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on nothing atm!
-- 🌐 I run https://galerexia.neocities.org/
+- 🌐 I run https://cosmunaa.neocities.org/
 - 🌎 EST Timezone
-- 📫 How to reach me on Discord: galerexia#5908
+- 📫 How to reach me on Discord: @cosmuna
 
 <!---
 forevertiredd/forevertiredd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
