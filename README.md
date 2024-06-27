@@ -15,9 +15,9 @@ I'm an American High School Senior who has been interested in coding ever since 
   - Figma
   - Microsoft Worod
   - Microsoft Excel
-  # Learning
+  ## Learning
   - Flutter
-  # Projects
+  ## Projects
   - Website portfolio
   - Application to manage health-related things
   # Contact
