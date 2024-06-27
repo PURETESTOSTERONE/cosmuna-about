@@ -21,15 +21,15 @@ I'm an American High School Senior who has been interested in coding ever since 
     <li>Microsoft Word</li>
     <li>Microsoft Excel</li>
   </ul>
-  ## Learning
+  <h2>Learning</h2>
   <ul>
     <li>Flutter</li>
   </ul>
-  ## Projects
+  <h2>Projects</h2>
   <ul>
     <li>Website Portfolio</li>
     <li>Mobile application to manage health</li>
   </ul>
-  # Contact
+  <h1>Contact</h1>
   - ✉️ mmmbrock07@gmail.com
 </details>
