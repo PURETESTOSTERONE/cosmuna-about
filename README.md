@@ -1,5 +1,5 @@
 # Hi, I'm Maddy!
-I'm an American High School Senior who has been interested in coding ever since I was 8, and have been actively learning languages since I was 13.
+I'm an American High School Senior who has been interested in coding ever since I was 8, and have been actively learning since I was 13.
 
 <details>
   <summary>More about me</summary>
