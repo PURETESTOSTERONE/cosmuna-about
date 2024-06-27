@@ -31,5 +31,7 @@ I'm an American High School Senior who has been interested in coding ever since 
     <li>Mobile application to manage health</li>
   </ul>
   <h1>Contact</h1>
-  - ✉️ mmmbrock07@gmail.com
+  <ul>
+    <li>✉️ mmmbrock07@gmail.com</li>
+  </ul>
 </details>
