@@ -5,31 +5,31 @@ I'm an American High School Senior who has been interested in coding ever since 
   <summary>More about me</summary>
   <h1>Skills</h1>
   <h2>Web Development</h2> 
-  <li>
-    <ul>HTML</ul>
-    <ul>CSS</ul>
-    <ul>JavaScript</ul>
-  </li>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
   <h2>Application Development</h3>
-  <li>
-    <ul>Python</ul>
-  </li>
+  <ul>
+    <li>Python</li>
+  </ul>
   <h2>Productivity</h2>
-  <li>
-    <ul>Notion</ul>
-    <ul>Figma</ul>
-    <ul>Microsoft Word</ul>
-    <ul>Microsoft Excel</ul>
-  </li>
+  <ul>
+    <li>Notion</li>
+    <li>Figma</li>
+    <li>Microsoft Word</li>
+    <li>Microsoft Excel</li>
+  </ul>
   ## Learning
-  <li>
-    <ul>Flutter</ul>
-  </li>
+  <ul>
+    <li>Flutter</li>
+  </ul>
   ## Projects
-  <li>
-    <ul>Website Portfolio</ul>
-    <ul>Mobile application to manage health</ul>
-  </li>
+  <ul>
+    <li>Website Portfolio</li>
+    <li>Mobile application to manage health</li>
+  </ul>
   # Contact
   - ✉️ mmmbrock07@gmail.com
 </details>
